@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently a second year graduate at [VIT VELLORE](https://vit.ac.in/)
 
 - 🌱 I’m currently learning **competitive coding**
 
